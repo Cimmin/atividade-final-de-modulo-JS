@@ -1,0 +1,48 @@
+form > h1 {
+  font-size: 25px;
+  padding-bottom: 20px;
+  color: black;
+  filter: drop-shadow(3px 3px 10px whitesmoke);
+}
+
+.input-login {
+  font-size: 16px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: 1px black solid;
+  padding: 5px;
+  width: 300px;
+}
+
+.btn-login:active {
+  background-color: whitesmoke;
+}
+
+.btn-login:hover {
+  color: whitesmoke;
+}
+
+.btn-login2 {
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px black solid;
+  padding: 3px;
+  margin-top: 5px;
+  width: 150px;
+  margin-left: 25%;
+  background-color: #cf8c34;
+}
+
+.btn-login2:active {
+  background-color: whitesmoke;
+}
+
+.btn-login2:hover {
+  color: whitesmoke;
+}
+
+form > a {
+  font-size: 14px;
+  padding: 3px;
+  color: black;
+}
